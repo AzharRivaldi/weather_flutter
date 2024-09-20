@@ -1,4 +1,4 @@
-# weather
+# Weather
 
 # Tutorial Build with Android Studio
 https://youtu.be/t69jJcu_OgU
